@@ -1,1 +1,1 @@
-[Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![snake gif](https://github.com/Senadeera-NK/Senadeera-NK/blob/output/github-contribution-grid-snake.svg)
