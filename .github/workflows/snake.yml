@@ -16,7 +16,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Senadeera-NK
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
       - name: Push snake file to output branch
         uses: crazy-max/ghaction-github-pages@v4
