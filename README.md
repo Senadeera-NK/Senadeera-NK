@@ -1,7 +1,6 @@
 # 👩‍💻 S.A. Nanduni Kaveesha Senadeera
 
 🎓 **BSc (Hons) in Computer Science**  
-📍 Based in Dubai | 🌏 Originally from Sri Lanka  
 
 ---
 
@@ -42,8 +41,7 @@ Machine learning–based system to detect deepfake voices from authentic audio s
 ## 🎓 Education  
 
 **Bachelor of Science (Hons) in Computer Science**  
-University of [Your University Name]  
-*(Graduated Year — Add if you’d like)*  
+University of Westminster - 2023  
 
 ---
 
