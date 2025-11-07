@@ -9,6 +9,17 @@ An aspiring **Software Developer** passionate about building impactful digital s
 Currently focused on strengthening backend and full-stack development skills to contribute to modern, scalable systems.  
 
 ---
+<h2>💡 Technical Focus</h2>
+
+<h3>🌐 Language Usage (Across GitHub Repositories)</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senadeera-NK&layout=pie&theme=default&title_color=2b547e&text_color=2b547e" alt="Top Languages" width="400">
+
+<ul>
+  <li><strong>Python</strong> – Backend, ML, and data pipelines</li>
+  <li><strong>FastAPI</strong> – REST API development</li>
+  <li><strong>JavaScript</strong> – Frontend interactivity</li>
+  <li><strong>React / Next.js</strong> – Full-stack web applications</li>
+</ul>
 
 ## 💡 Technical Focus  
 
