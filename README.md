@@ -1,68 +1,62 @@
-# 👩‍💻 S.A. Nanduni Kaveesha Senadeera
+<div align="center">
 
-🎓 **BSc (Hons) in Computer Science**  
+# ⚡ S.A. Nanduni Kaveesha Senadeera
+**Software Developer | AI Enthusiast | Full-Stack Builder**
 
----
-
-## 🎯 Career Objective  
-An aspiring **Software Developer** passionate about building impactful digital solutions that merge **technology, AI, and business logic**.  
-Currently focused on strengthening backend and full-stack development skills to contribute to modern, scalable systems.  
-
----
-<h2>💡 Technical Focus</h2>
-
-<h3>🌐 Language Usage (Across GitHub Repositories)</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senadeera-NK&layout=pie&theme=default&title_color=2b547e&text_color=2b547e" alt="Top Languages" width="400">
-
-<ul>
-  <li><strong>Python</strong> – Backend, ML, and data pipelines</li>
-  <li><strong>FastAPI</strong> – REST API development</li>
-  <li><strong>JavaScript</strong> – Frontend interactivity</li>
-  <li><strong>React / Next.js</strong> – Full-stack web applications</li>
-</ul>
-
-## 💡 Technical Focus  
-
-🧠 **Programming & Frameworks:**  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-🗄️ **Databases:**  
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-
-🤖 **Interests:**  
-AI, Cloud Integration, Automation, and Data-Driven Systems  
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-a-nanduni-kaveesha-senadeera/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:naksathuadage2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧩 Notable Projects  
+### 🚀 About Me
+An aspiring Software Developer dedicated to building scalable systems where **Business Logic meets AI**. 
+Currently architecting backend solutions and refining full-stack workflows.
 
-### 🔹 [LearnVault](https://github.com/Senadeera-NK/LearnVault) *(Ongoing)*  
-A full-stack AI-driven file management system designed to classify, rename, and store documents intelligently using OCR and database integration.  
+</div>
 
-### 🔹 DeepFake Audio Detection *(Final Year Project)*  
-Machine learning–based system to detect deepfake voices from authentic audio samples, built with Python and ML frameworks.  
+### 🛠️ Tech Stack & Tools
 
----
-
-## 🎓 Education  
-
-**Bachelor of Science (Hons) in Computer Science**  
-University of Westminster - 2023  
-
----
-
-## 📫 Contact  
-
-[![Email](https://img.shields.io/badge/Email-naksathuadage2000%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:naksathuadage2000@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-S.A.%20Nanduni%20Kaveesha%20Senadeera-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-a-nanduni-kaveesha-senadeera/)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
 
 ---
 
-## 🧠 Personal Note  
-Despite challenges in securing a role, I remain committed to learning, building, and improving my technical and problem-solving abilities daily.  
-Every project I create represents one step closer to becoming the engineer I aspire to be.
+### 🏗️ Featured Projects
+
+#### 📂 [LearnVault](https://github.com/Senadeera-NK/LearnVault)
+> **AI-Driven Document Management**
+> * A full-stack system using OCR to intelligently classify and rename files.
+> * **Tech:** FastAPI, React, AI/OCR Integration.
+
+#### 🎙️ [DeepFake Audio Detection](https://github.com/Senadeera-NK/DeepFake-Detection)
+> **Final Year Research Project**
+> * Developed a Machine Learning pipeline to distinguish between synthetic and authentic human voices.
+> * **Tech:** Python, Librosa, TensorFlow/PyTorch.
 
 ---
 
-⭐ *If you find my work interesting, consider connecting or following my GitHub journey.*
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senadeera-NK&layout=pie&theme=transparent&hide_border=true&title_color=3ECF8E&text_color=7e7e7e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Senadeera-NK&show_icons=true&theme=transparent&hide_border=true&title_color=3ECF8E&text_color=7e7e7e" width="48%" />
+</div>
+
+---
+
+### 🎓 Education
+* **B.Sc. (Hons) in Computer Science** | University of Westminster (2023)
+
+---
+
+<div align="center">
+  <i>"Every line of code is a step toward the engineer I am becoming."</i>
+</div>
