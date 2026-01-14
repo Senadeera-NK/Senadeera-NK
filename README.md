@@ -33,19 +33,19 @@
 **Enterprise Security & Monitoring Framework**
 * Architecting a modular security suite designed for real-time anomaly detection and system health monitoring.
 * **Focus:** High-throughput data processing, automated threat alerting, and secure microservices.
-* **Tech:** Spring Boot, AWS (EC2/S3), Redis, Docker.
+* **Tech:** Spring Boot, AWS (EC2/S3), Redis, Docker, Next.js.
 
 #### 💬 [CollabChat](https://github.com/Senadeera-NK/CollabChat)
 **Real-Time Collaborative Communication Engine**
 * Engineered a low-latency chat ecosystem utilizing bi-directional event-driven architecture.
 * **Key Features:** Real-time state synchronization, persistent message store, and JWT-based security.
-* **Tech:** Socket.io, Node.js, Redis, Next.js.
+* **Tech:** Socket.io, Express.js, Next.js.
 
 #### 📂 [LearnVault](https://github.com/Senadeera-NK/LearnVault)
 **AI-Augmented Document Management System**
 * Built an intelligent filing solution using OCR to transform unstructured document streams into indexed, searchable data.
 * **Impact:** Optimized administrative workflows through automated metadata extraction.
-* **Tech:** Python, React, Tesseract OCR, Supabase.
+* **Tech:** Python - fastAPI, React, Tesseract OCR, Supabase, Next.js.
 
 ---
 
