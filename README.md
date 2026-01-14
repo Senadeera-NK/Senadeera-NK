@@ -17,11 +17,11 @@
 
 ### 🛠️ Technical Ecosystem
 
-**Backend & Core Architecture** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+**Backend & Core Architecture** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 **Frontend & Interface** ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-**Database & Infrastructure** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
+**Database & Infrastructure** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
 
 ---
 
@@ -33,7 +33,7 @@
 **Enterprise Security & Monitoring Framework**
 * Architecting a modular security suite designed for real-time anomaly detection and system health monitoring.
 * **Focus:** High-throughput data processing, automated threat alerting, and secure microservices.
-* **Tech:** Spring Boot, Redis, AWS, Security Analytics, Docker.
+* **Tech:** Spring Boot, AWS (EC2/S3), Redis, Docker.
 
 #### 💬 [CollabChat](https://github.com/Senadeera-NK/CollabChat)
 **Real-Time Collaborative Communication Engine**
@@ -46,13 +46,6 @@
 * Built an intelligent filing solution using OCR to transform unstructured document streams into indexed, searchable data.
 * **Impact:** Optimized administrative workflows through automated metadata extraction.
 * **Tech:** Python, React, Tesseract OCR, Supabase.
-
----
-
-### 🎯 Current Focus
-* 🚀 **Enterprise Systems:** Deep diving into Spring Microservices and Design Patterns.
-* 🤖 **AI Integration:** Implementing LLMs for automated backend decision-making.
-* ☁️ **Cloud Native:** Enhancing deployment workflows using Docker and CI/CD pipelines.
 
 ---
 
