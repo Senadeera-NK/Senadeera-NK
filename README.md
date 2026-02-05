@@ -29,7 +29,7 @@
 
 ### 🏗️ Strategic Projects
 
-#### 🛡️ [FlashGuard](https://github.com/Senadeera-NK) `In Development`
+#### 🛡️ [FlashGuard](https://github.com/Senadeera-NK/FlashGuard)
 **Enterprise Security & Monitoring Framework**
 * Architecting a modular security suite designed for real-time anomaly detection and system health monitoring.
 * **Focus:** High-throughput data processing, automated threat alerting, and secure microservices.
