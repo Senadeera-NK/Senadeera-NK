@@ -50,7 +50,7 @@
 ---
 
 ### 🎓 Academic Background
-* **B.Sc. (Hons) in Computer Science** | University of Westminster (2023)
+* **BSc.(Hons) in Computer Science** | University of Westminster (2023)
 
 <div align="center">
 
