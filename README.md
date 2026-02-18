@@ -33,7 +33,7 @@
 **Enterprise Security & Monitoring Framework**
 * Architecting a modular security suite designed for real-time anomaly detection and system health monitoring.
 * **Focus:** High-throughput data processing, automated threat alerting, and secure microservices.
-* **Tech:** Spring Boot, AWS (EC2/S3), Redis, Docker, Next.js.
+* **Tech:** Java - Spring Boot, AWS (EC2/S3), Redis, Docker, Next.js.
 
 #### 💬 [CollabChat](https://github.com/Senadeera-NK/CollabChat)
 **Real-Time Collaborative Communication Engine**
