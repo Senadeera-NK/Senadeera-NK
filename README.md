@@ -31,10 +31,9 @@
 
 #### 🛡️ [PiiLens-Gateway](https://github.com/Senadeera-NK/PiiLens-LLM-API-Proxy) (ongoing)
 **High-Performance AI-Sidecar for Data Privacy**
-* Engineered a Polyglot Sidecar Architecture (Java/Spring Boot & Python) using gRPC for low-latency PII redaction.
-* Designed for extreme resource constraints (512MB RAM) using Caffeine L1 Caching, reducing NLP model overhead by 40%.
-* Implemented a Circuit Breaker pattern with a local Regex fallback to ensure 99.9% availability if the ML sidecar is under heavy load.
-* **Tech:** Java 21, Spring Boot, gRPC, Python, Spacy NLP, Prometheus, Grafana, Micrometer (Tracing), Docker, GitHub Actions (CI/CD
+* Engineered a polyglot sidecar architecture (Java 21 & Python) using gRPC to perform real-time PII redaction.
+* Optimized for 512MB RAM environments using Caffeine L1 caching and a Circuit Breaker fallback to ensure 99.9% availability.
+* **Tech:** Java 21, Spring Boot, gRPC, Python, Spacy NLP, Prometheus, Grafana, Micrometer (Tracing), Docker, GitHub Actions (CI/CD)
 
 #### 🛡️ [FlashGuard](https://github.com/Senadeera-NK/FlashGuard)
 **Enterprise Security & Monitoring Framework**
@@ -54,6 +53,13 @@
 * **Impact:** Optimized administrative workflows through automated metadata extraction.
 * **Tech:** Python - fastAPI, React, Tesseract OCR, Supabase, Next.js.
 
+---
+🛠️ Developer Utilities
+#### 🚀 [sri-lanka-software-jobs](https://github.com/Senadeera-NK/sri-lanka-software-jobs)
+**Automated Career Intelligence Tool**
+*Engineered a high-performance scraper using Java 21 and Jsoup to aggregate software engineering roles from top Sri Lankan job portals.
+*Automated the end-to-end workflow via GitHub Actions to sync a central repository and dispatch real-time Telegram alerts twice daily.
+* **Tech:** Java 21, Jsoup, GitHub Actions, Telegram Bot API, Markdown.
 ---
 
 ### 🎓 Academic Background
