@@ -57,8 +57,8 @@
 🛠️ Developer Utilities
 #### 🚀 [sri-lanka-software-jobs](https://github.com/Senadeera-NK/sri-lanka-software-jobs)
 **Automated Career Intelligence Tool**
-*Engineered a high-performance scraper using Java 21 and Jsoup to aggregate software engineering roles from top Sri Lankan job portals.
-*Automated the end-to-end workflow via GitHub Actions to sync a central repository and dispatch real-time Telegram alerts twice daily.
+* Engineered a high-performance scraper using Java 21 and Jsoup to aggregate software engineering roles from top Sri Lankan job portals.
+* Automated the end-to-end workflow via GitHub Actions to sync a central repository and dispatch real-time Telegram alerts twice daily.
 * **Tech:** Java 21, Jsoup, GitHub Actions, Telegram Bot API, Markdown.
 ---
 
