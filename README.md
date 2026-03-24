@@ -29,6 +29,13 @@
 
 ### 🏗️ Strategic Projects
 
+#### 🛡️ [PiiLens-Gateway](https://github.com/Senadeera-NK/PiiLens-LLM-API-Proxy) (ongoing)
+**High-Performance AI-Sidecar for Data Privacy**
+* Engineered a Polyglot Sidecar Architecture (Java/Spring Boot & Python) using gRPC for low-latency PII redaction.
+* Designed for extreme resource constraints (512MB RAM) using Caffeine L1 Caching, reducing NLP model overhead by 40%.
+* Implemented a Circuit Breaker pattern with a local Regex fallback to ensure 99.9% availability if the ML sidecar is under heavy load.
+* **Tech:** Java 21, Spring Boot, gRPC, Python, Spacy NLP, Prometheus, Grafana, Micrometer (Tracing), Docker, GitHub Actions (CI/CD
+
 #### 🛡️ [FlashGuard](https://github.com/Senadeera-NK/FlashGuard)
 **Enterprise Security & Monitoring Framework**
 * Architecting a modular security suite designed for real-time anomaly detection and system health monitoring.
